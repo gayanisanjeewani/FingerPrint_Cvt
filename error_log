@@ -1,0 +1,6 @@
+[02-Mar-2019 00:55:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/unitecsoftware/smi-institute.com/SMI/SMIFINGER/dbconnection.php on line 20
+[02-Mar-2019 01:06:30 America/New_York] PHP Warning:  Illegal string offset 'extension' in /home/unitecsoftware/smi-institute.com/SMI/SMIFINGER/index.php on line 148
+[03-Mar-2019 21:59:53 America/New_York] PHP Warning:  Illegal string offset 'extension' in /home/unitecsoftware/smi-institute.com/SMI/SMIFINGER/index.php on line 148
+[04-Mar-2019 04:20:33 America/New_York] PHP Warning:  Illegal string offset 'extension' in /home/unitecsoftware/smi-institute.com/SMI/SMIFINGER/index.php on line 148
+[04-Mar-2019 04:55:11 America/New_York] PHP Warning:  Illegal string offset 'extension' in /home/unitecsoftware/smi-institute.com/SMI/SMIFINGER/index.php on line 148
+[04-Mar-2019 04:56:51 America/New_York] PHP Warning:  Illegal string offset 'extension' in /home/unitecsoftware/smi-institute.com/SMI/SMIFINGER/index.php on line 148
